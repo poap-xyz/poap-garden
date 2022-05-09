@@ -1,0 +1,19 @@
+# Read about configuration here: https://jekyllrb.com/docs/configuration/options/
+title: POAP Garden
+description: Apply for funding to build the next great POAP product!
+keywords: poap, garden, build, develop, funding, venture
+url: https://poap.directory
+permalink: pretty # Do not change this, it will break all links
+timezone: America/New_York
+markdown: kramdown
+livereload: true
+port: 4400
+
+# Notifications
+notification_enabled: false
+notification_id: 1 # Increment value when new notification to show again
+notification_msg: This is a test notification message.<br>This is a test notification message.
+
+# Navigation
+nav_enabled: false
+

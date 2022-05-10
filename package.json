@@ -1,0 +1,25 @@
+{
+  "name": "poap-garden",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "This is the source code for <https://poap.garden>, a site to apply for funding to build on POAP.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poap-xyz/poap-garden.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/poap-xyz/poap-garden/issues"
+  },
+  "homepage": "https://github.com/poap-xyz/poap-garden#readme",
+  "dependencies": {
+    "airtable": "^0.11.3",
+    "netlify": "^11.0.0",
+    "node-fetch": "~1.0.2"
+  }
+}

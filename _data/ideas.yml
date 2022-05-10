@@ -1,0 +1,21 @@
+# - title:        # idea title
+#   description:  # idea description 
+
+
+# Template to copy for new entries
+# - title: 
+#   description: 
+
+
+- title: POAP Social Graph
+  description: A social graph based on the collectors of each POAP. This could serve as a building block for additional services such as a networking app where see what collectors you have the most POAPs in common with.
+- title: POAP Bingo
+  description: |
+    An alternative to the standard POAP raffle. Similar to the raffle you can enter by either having one of any qualifying POAPs or you can have a mutliple entries for every qualifying POAP. A collector would receive a bingo board for each entry. The tiles can be a random set of the participant's POAP collection. Drawings could be done the same way as raffles based on the block data and POAP ID. The winner would be the first to have the pettern specified by the game creator.
+- title: 
+  description: 
+- title: 
+  description: 
+- title: 
+  description: 
+

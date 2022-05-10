@@ -65,11 +65,24 @@ a:hover {
   background-color: var(--poap-purple-dark);
   color: #fff;
 }
+.btn.disabled,
+.btn:disabled {
+  background-color: var(--poap-purple);
+  border-color: var(--poap-purple);
+}
+
+
+.form-check-input:checked {
+  background-color: var(--poap-purple-dark);
+  border-color: var(--poap-purple-dark);
+}
 
 
 a:focus,
 .btn-check:focus+.btn,
-.btn:focus {
+.btn:focus,
+.form-control:focus,
+.form-check-input:focus {
   box-shadow: 0 0 0 0.25rem var(--poap-focus) !important;
   outline: 0;
 }
